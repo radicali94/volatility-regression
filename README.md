@@ -1,2 +1,2 @@
 # volatility-regression
-EUR / USD 
+EUR / USD regression on ratio and volatility. 
